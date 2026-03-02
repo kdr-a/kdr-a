@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Auez 👋
+Founder of VolunteerLeague (VeoHub)
+Future AITU student | Backend & Fullstack Developer
+11th grade student
+Building a real startup (VolunteerLeague)
+Interested in backend systems and scalable architecture
+Preparing for AITU
 
-<!--
-**kdr-a/kdr-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+main project : 🚀 VolunteerLeague (VeoHub)
+Digital Volunteer Ecosystem
+Web platform
+Mobile app
+Backend API
+User authentication
+Role system
+Event management
+Volunteer hours tracking
+link : https://github.com/kdr-a/VolunteerLeague-VeoHub
 
-Here are some ideas to get you started:
+Tech stack :
+Frontend: React / Next.js  
+Mobile: React Native (Expo)  
+Backend: Node.js / Express  
+Database: PostgreSQL  
+Tools: Git, GitHub, REST API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current goals :
+Scaling VeoHub
+Preparing for AITU
+Improving backend architecture
+Learning system design
+
