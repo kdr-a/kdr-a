@@ -1,10 +1,8 @@
 Hi, I'm Auez 👋
 Founder of VolunteerLeague (VeoHub)
-Future AITU student | Backend & Fullstack Developer
-11th grade student
-Building a real startup (VolunteerLeague)
+WKATU student 
+Building a startup (VolunteerLeague)
 Interested in backend systems and scalable architecture
-Preparing for AITU
 
 main project : 🚀 VolunteerLeague (VeoHub)
 Digital Volunteer Ecosystem
